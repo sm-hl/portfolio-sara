@@ -1,7 +1,7 @@
-# Hello Everyone 🖐️, I'm Salma Halhoul 💙
+# Hello Everyone 🖐️, I'm Sara Halhoul 💙
 
-A software engineer 👩‍🎓 from Agadir, Morocco 🇲🇦
+A Technician Specialized in Public Works Supervision 👩‍🎓 from Agadir, Morocco 🇲🇦
 
 # This is my Portfolio 💻
 
-This website showcases my best work during my studies at the University of Agadir, ENSA.
+This website showcases my best work during my studies at the OFPPT of Agadir.
